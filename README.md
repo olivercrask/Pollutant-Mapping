@@ -1,5 +1,11 @@
 # Pollutant-Mapping
 
+## Data Source:
+
+The data is being collected using a raspberry pi zero. Details of this project are on hackster here:
+https://www.hackster.io/OxygenLithium/particulater-air-quality-monitoring-for-everyone-3caef2
+
+Work is still needed to integrate this with a GPS module and then to send this data to Hologram.io.
 
 ## Goals:
 
