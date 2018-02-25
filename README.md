@@ -33,6 +33,8 @@ https://pasteboard.co/H99EfgT.png
                http://aqicn.org/city/united-kingdom/leicester-university/
                https://www.londonair.org.uk/LondonAir/nowcast.aspx
                AQICN shows some examples here: http://aqicn.org/faq/2015-09-18/map-web-service-real-time-air-quality-tile-api/
+               
+  - [Bokeh](https://bokeh.pydata.org/en/latest/): Interactive plots?
  
  
 
