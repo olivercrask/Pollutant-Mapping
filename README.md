@@ -33,6 +33,19 @@ https://pasteboard.co/H99EfgT.png
                http://aqicn.org/city/united-kingdom/leicester-university/
                https://www.londonair.org.uk/LondonAir/nowcast.aspx
                AQICN shows some examples here: http://aqicn.org/faq/2015-09-18/map-web-service-real-time-air-quality-tile-api/
+               
+  - [Bokeh](https://bokeh.pydata.org/en/latest/): Interactive plots?
+  
+  ## Pydata presentation
+  Present at Pydata London https://pydata.org/london2018/
+  
+  Blurb: The event brings together analysts, scientists, developers, engineers, architects and others from the data science community to discuss new techniques and tools for management, analytics and visualization of data. PyData welcomes presentations focusing on Python as well as other languages used in data science (e.g. R, Julia). Presentation content can be at a novice, intermediate or advanced level. Talks will run 30-40 min and hands-on tutorials will run 90-120 min.
+  
+#### Submission
+* Title (proposed): An introduction to data science around the home and community with Home-assistant
+* Brief Summary - Should be one paragraph, maximum 400 characters.
+* Description - Detailed outline.
+
  
  
 
