@@ -1,4 +1,4 @@
-## An introduction to data science with Home-Assistant
+## An introduction to citizen data science with Home-Assistant
 
 #### Brief Summary (max 400 char)
 Citizen data science projects typically use 'free' cloud solutions for collecting their data, but these come with restrictions and often result in the use of proprietary analysis tools. Home-assistant is an open-source python-based platform that is ideal for gathering, analysing and interpreting data. The scientist can then integrate the project into their daily life, giving it new dimensions.
