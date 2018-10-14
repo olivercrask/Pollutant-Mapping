@@ -17,13 +17,14 @@ The goal is to produce a map similar to those found at https://www.londonair.org
 ## PMS5003 air quality sensor
 PM1.0, PM2.5 and PM10.0 particulate matter per 0.1L air, categorized into 0.3um, 0.5um, 1.0um, 2.5um, 5.0um and 10um size bins.
 
-* Manufacturer: http://www.plantower.com/en/content/?108.html
-* Micropython driver:
-* Raspberry pi driver:
+* [Manufacturer](http://www.plantower.com/en/content/?108.html)
+* [Micropython driver](https://github.com/kevinkk525/pms5003_micropython)
+* [Raspberry pi driver](https://github.com/Thomas-Tsai/pms3003-g3)
 * [LoPy 4 pycom board and PMS5003](https://kapusta.cc/2018/02/02/air-quality-monitor-revisited/)
+* [WiPy3 board and PMS5003](https://kapusta.cc/2017/12/02/home-made-air-quality-monitoring-using-wipy/) and [github code](https://github.com/ayoy/upython-aq-monitor)
 * [ESP8266 write-up](https://ourairquality.org/index.php/build-an-air-quality-monitor/)
-* [Some sensor specs from a NZ website](https://www.kiwi-electronics.nl/pm2-5-air-quality-sensor-breadboard-adapter-kit-pms5003?lang=en)
-* [Amazon UK page](https://www.amazon.co.uk/iHaospace-PMS5003-Digital-Particle-Detection/dp/B071J5LL8V)
+* [Some sensor specs from Adafruit](https://www.adafruit.com/product/3686)
+* [Sensor Amazon UK page](https://www.amazon.co.uk/iHaospace-PMS5003-Digital-Particle-Detection/dp/B071J5LL8V)
 
 
 
@@ -49,3 +50,4 @@ List of currently used and to-investigate hardware:
 
   ## Relevant links
   * Sniffy air quality monitoring Southampton https://www.solentairwatch.co.uk/
+  * Paper: [Wearable camera-derived microenvironments in relation to personal exposure to PM2.5](https://www.sciencedirect.com/science/article/pii/S0160412018301478)
