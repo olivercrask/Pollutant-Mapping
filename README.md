@@ -16,8 +16,11 @@ The goal is to produce a map similar to those found at https://www.londonair.org
 
 ## PMS5003 air quality sensor
 PM1.0, PM2.5 and PM10.0 particulate matter per 0.1L air, categorized into 0.3um, 0.5um, 1.0um, 2.5um, 5.0um and 10um size bins.
+Can read over serial, check port with `ls /dev/tty.*` then on Mac connect with `screen /dev/tty.SLAB_USBtoUART 9600`
 
 * [Manufacturer](http://www.plantower.com/en/content/?108.html)
+* [Manual](http://www.aqmd.gov/docs/default-source/aq-spec/resources-page/plantower-pms5003-manual_v2-3.pdf)
+* [Arduino driver](https://github.com/jbanaszczyk/pms5003)
 * [Micropython driver](https://github.com/kevinkk525/pms5003_micropython)
 * [Raspberry pi driver](https://github.com/Thomas-Tsai/pms3003-g3)
 * [LoPy 4 pycom board and PMS5003](https://kapusta.cc/2018/02/02/air-quality-monitor-revisited/)
@@ -25,6 +28,7 @@ PM1.0, PM2.5 and PM10.0 particulate matter per 0.1L air, categorized into 0.3um,
 * [ESP8266 write-up](https://ourairquality.org/index.php/build-an-air-quality-monitor/)
 * [Some sensor specs from Adafruit](https://www.adafruit.com/product/3686)
 * [Sensor Amazon UK page](https://www.amazon.co.uk/iHaospace-PMS5003-Digital-Particle-Detection/dp/B071J5LL8V)
+* [Sensor teardown](https://aqicn.org/sensor/pms5003-7003/)
 
 
 
